@@ -8,3 +8,4 @@ body{background-color: rgb(161, 161, 161); font-family:calibri; margin:0px;}
 #BloqueVerde{width:40px; height:40px; background-color:rgba(0, 128, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:380px; left:51%;}
 #BloqueAmarillo{width:40px; height:40px; background-color:rgba(255, 255, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:410px; left:48.5%;}
 #BloqueAzul{width:40px; height:40px; background-color:rgba(0, 0, 255, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:380px; left:46%;}
+#Mensaje{color:gray; margin-top:200px;}
