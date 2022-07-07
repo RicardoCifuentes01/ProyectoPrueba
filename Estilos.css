@@ -1,11 +1,7 @@
 body{background-color: rgb(161, 161, 161); font-family:calibri; margin:0px;}
-.Contenedor{background-color:white; text-align: center; width:70%; height:90vh; margin-left:15%; margin-top:5vh; box-shadow:1px 1px 20px black; padding-top:200px; box-sizing: border-box;}
-#Rojo{color:rgba(255, 0, 0, 0.596);}
-#Verde{color:rgba(0, 128, 0, 0.596);}
-#Amarillo{color:rgba(255, 255, 0, 0.596);}
-#Azul{color:rgba(0, 0, 255, 0.596);}
-#BloqueRojo{width:40px; height:40px; background-color:rgba(255, 0, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:350px; left:48.5%;}
-#BloqueVerde{width:40px; height:40px; background-color:rgba(0, 128, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:380px; left:51%;}
-#BloqueAmarillo{width:40px; height:40px; background-color:rgba(255, 255, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:410px; left:48.5%;}
-#BloqueAzul{width:40px; height:40px; background-color:rgba(0, 0, 255, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:380px; left:46%;}
-#Mensaje{color:gray; margin-top:200px;}
+.Contenedor{background-color:white; text-align: center; width:40%; height:90vh; margin-left:30%; margin-top:5vh; box-shadow:1px 1px 20px black; padding-top:150px; box-sizing: border-box;}
+#BloqueRojo{width:40px; height:40px; background-color:rgba(255, 0, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:50px; left:48.5%;}
+#BloqueVerde{width:40px; height:40px; background-color:rgba(0, 128, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:80px; left:51%;}
+#BloqueAmarillo{width:40px; height:40px; background-color:rgba(255, 255, 0, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:110px; left:48.5%;}
+#BloqueAzul{width:40px; height:40px; background-color:rgba(0, 0, 255, 0.596); border-radius:5px; transform: rotate(45deg); position: absolute; top:80px; left:46%;}
+#Mensaje{color:gray; margin-top:300px;}
